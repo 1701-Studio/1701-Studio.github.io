@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://1701-Studio.github.io/"/>
-  <updated>2019-05-22T05:56:17.082Z</updated>
+  <updated>2019-05-22T08:55:19.428Z</updated>
   <id>https://1701-Studio.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>试卷和往期材料下载</title>
+    <link href="https://1701-Studio.github.io/admin/papers.html"/>
+    <id>https://1701-Studio.github.io/admin/papers.html</id>
+    <published>2019-05-22T08:50:07.000Z</published>
+    <updated>2019-05-22T08:55:19.428Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="这里现在正在建设中，预计很快即将完成"><a href="#这里现在正在建设中，预计很快即将完成" class="headerlink" title="这里现在正在建设中，预计很快即将完成"></a>这里现在正在建设中，预计很快即将完成</h3><p>您可以跳转至旧的站点来下载这些材料的电子版文档。</p><p><a href="https://arlxn.github.io/admin/1701-Studio.html" target="_blank" rel="noopener">跳转至旧站点</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;这里现在正在建设中，预计很快即将完成&quot;&gt;&lt;a href=&quot;#这里现在正在建设中，预计很快即将完成&quot; class=&quot;headerlink&quot; title=&quot;这里现在正在建设中，预计很快即将完成&quot;&gt;&lt;/a&gt;这里现在正在建设中，预计很快即将完成&lt;/h3&gt;&lt;p&gt;您可以跳转至
+      
+    
+    </summary>
+    
+      <category term="admin" scheme="https://1701-Studio.github.io/categories/admin/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>

@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>试卷和往期材料下载</title>
+      <link href="/admin/papers.html"/>
+      <url>/admin/papers.html</url>
+      
+        <content type="html"><![CDATA[<h3 id="这里现在正在建设中，预计很快即将完成"><a href="#这里现在正在建设中，预计很快即将完成" class="headerlink" title="这里现在正在建设中，预计很快即将完成"></a>这里现在正在建设中，预计很快即将完成</h3><p>您可以跳转至旧的站点来下载这些材料的电子版文档。</p><p><a href="https://arlxn.github.io/admin/1701-Studio.html" target="_blank" rel="noopener">跳转至旧站点</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> admin </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/uncategorized/hello-world.html"/>
       <url>/uncategorized/hello-world.html</url>
