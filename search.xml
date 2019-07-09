@@ -4,24 +4,11 @@
   
     
     <entry>
-      <title>服务器升级公告</title>
-      <link href="/uncategorized/noti1.html"/>
-      <url>/uncategorized/noti1.html</url>
-      
-        <content type="html"><![CDATA[<p>服务器整体升级中，在此期间部分功能不可用。</p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>日志</title>
+      <title>全站日志</title>
       <link href="/admin/log.html"/>
       <url>/admin/log.html</url>
       
-        <content type="html"><![CDATA[<h4 id="这里是本站的日志中心，仅供记录大事件或管理员查阅错误时使用。"><a href="#这里是本站的日志中心，仅供记录大事件或管理员查阅错误时使用。" class="headerlink" title="这里是本站的日志中心，仅供记录大事件或管理员查阅错误时使用。"></a>这里是本站的日志中心，仅供记录大事件或管理员查阅错误时使用。</h4><p>2019年7月05日 下午 16:49</p><blockquote><p>1.服务器整体升级<br>2.添加评论系统</p></blockquote><p>2019年5月31日 晚上 08:04</p><blockquote><p>1.添加NingCloud下载渠道<br>2.永远在改文案的道路上一去不回头（…）</p></blockquote><p>2019年5月23日 下午 02:31</p><blockquote><p>1.此前的文档均已下载完成，并开放下载<br>2.修改了部分文案</p></blockquote><p>2019年5月23日 上午 10:17</p><blockquote><p>1.添加新链接<br>2.添加PDF电脑端专用软件</p></blockquote><p>2019年5月22日 晚上 10:02</p><blockquote><p>1.将本页面迁移至新站点“<a href="https://1701-Studio.github.io&quot;">https://1701-Studio.github.io&quot;</a><br>2.修改了部分文案</p></blockquote><p>2019年5月20日 晚上 10:05</p><blockquote><p>1.修改了部分文案<br>2.更新了部分链接<br>3.修正文本中的错误</p></blockquote><p>2019年5月19日 下午 5:07</p><blockquote><p>1.修改了部分文案<br>2.clean了仓库并重新上传</p></blockquote><p>2019年5月19日 下午 2:11</p><blockquote><p>本文档初步完成，上传至服务器更新日志<br>2019年5月31日 晚上 08:04</p></blockquote><blockquote><p>1.添加NingCloud下载渠道<br>2.永远在改文案的道路上一去不回头（…）</p></blockquote><p>2019年5月23日 下午 02:31</p><blockquote><p>1.此前的文档均已下载完成，并开放下载<br>2.修改了部分文案</p></blockquote><p>2019年5月23日 上午 10:17</p><blockquote><p>1.添加新链接<br>2.添加PDF电脑端专用软件</p></blockquote><p>2019年5月22日 晚上 10:02</p><blockquote><p>1.将本页面迁移至新站点“<a href="https://1701-Studio.github.io&quot;">https://1701-Studio.github.io&quot;</a><br>2.修改了部分文案</p></blockquote><p>2019年5月20日 晚上 10:05</p><blockquote><p>1.修改了部分文案<br>2.更新了部分链接<br>3.修正文本中的错误</p></blockquote><p>2019年5月19日 下午 5:07</p><blockquote><p>1.修改了部分文案<br>2.clean了仓库并重新上传</p></blockquote><p>2019年5月19日 下午 2:11</p><blockquote><p>本文档初步完成，上传至服务器</p></blockquote>]]></content>
+        <content type="html"><![CDATA[<h4 id="这里是本站的日志中心，仅供记录大事件或管理员查阅错误时使用。"><a href="#这里是本站的日志中心，仅供记录大事件或管理员查阅错误时使用。" class="headerlink" title="这里是本站的日志中心，仅供记录大事件或管理员查阅错误时使用。"></a>这里是本站的日志中心，仅供记录大事件或管理员查阅错误时使用。</h4><p>2019年07月09日 下午 08:26</p><blockquote><p>1.服务器整体升级完成，性能稳定。<br>2.删除“服务器整体升级”通知页。<br>3.修改渲染模式，页面载入更快。<br>4.修改部分文案。<br>5.添加评论系统并测试通过投入使用。</p></blockquote><p>2019年7月05日 下午 16:49</p><blockquote><p>1.服务器整体升级<br>2.添加评论系统（但暂时不可用）</p></blockquote><p>2019年5月31日 晚上 08:04</p><blockquote><p>1.添加NingCloud下载渠道<br>2.永远在改文案的道路上一去不回头（…）</p></blockquote><p>2019年5月23日 下午 02:31</p><blockquote><p>1.此前的文档均已下载完成，并开放下载<br>2.修改了部分文案</p></blockquote><p>2019年5月23日 上午 10:17</p><blockquote><p>1.添加新链接<br>2.添加PDF电脑端专用软件</p></blockquote><p>2019年5月22日 晚上 10:02</p><blockquote><p>1.将本页面迁移至新站点“<a href="https://1701-Studio.github.io&quot;">https://1701-Studio.github.io&quot;</a><br>2.修改了部分文案</p></blockquote><p>2019年5月20日 晚上 10:05</p><blockquote><p>1.修改了部分文案<br>2.更新了部分链接<br>3.修正文本中的错误</p></blockquote><p>2019年5月19日 下午 5:07</p><blockquote><p>1.修改了部分文案<br>2.clean了仓库并重新上传</p></blockquote><p>2019年5月19日 下午 2:11</p><blockquote><p>本文档初步完成，上传至服务器更新日志<br>2019年5月31日 晚上 08:04</p></blockquote><blockquote><p>1.添加NingCloud下载渠道<br>2.永远在改文案的道路上一去不回头（…）</p></blockquote><p>2019年5月23日 下午 02:31</p><blockquote><p>1.此前的文档均已下载完成，并开放下载<br>2.修改了部分文案</p></blockquote><p>2019年5月23日 上午 10:17</p><blockquote><p>1.添加新链接<br>2.添加PDF电脑端专用软件</p></blockquote><p>2019年5月22日 晚上 10:02</p><blockquote><p>1.将本页面迁移至新站点“<a href="https://1701-Studio.github.io&quot;">https://1701-Studio.github.io&quot;</a><br>2.修改了部分文案</p></blockquote><p>2019年5月20日 晚上 10:05</p><blockquote><p>1.修改了部分文案<br>2.更新了部分链接<br>3.修正文本中的错误</p></blockquote><p>2019年5月19日 下午 5:07</p><blockquote><p>1.修改了部分文案<br>2.clean了仓库并重新上传</p></blockquote><p>2019年5月19日 下午 2:11</p><blockquote><p>本文档初步完成，上传至服务器</p></blockquote>]]></content>
       
       
       <categories>
